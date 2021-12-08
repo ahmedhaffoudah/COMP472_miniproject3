@@ -1,0 +1,2 @@
+Model Name,Vocab Size,C,V,Accuracy
+Word2vec-google-news-300,3000000,70,79,0.875
