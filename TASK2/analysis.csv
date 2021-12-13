@@ -1,0 +1,7 @@
+Model Name,Vocab Size,C,V,Accuracy
+Word2vec-google-news-300,3000000,70,79,0.875
+Glove-wiki-gigaword-100,400000,65,80,0.8125
+Glove-twitter-100,1193514,39,78,0.4875
+Glove-twitter-50,1193514,36,78,0.45
+Glove-twitter-25,1193514,36,78,0.45
+Glove-twitter-25,1193514,36,78,0.45
